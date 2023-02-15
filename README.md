@@ -53,3 +53,43 @@ This is an example of a *text with an asterisk*, When we don't want it to be ita
 
 __NOTE__: We can add a balloon title description to our link by using double quotes after the link to the resource.
 [Trello Activity Link](https://www.youtube.com/playlist?list=PLHztOObXYCYGL2DNt5yVzeTyyyohG50tv "This is a youtube playlist link")
+
+<!-- LIST ITEM RULES-->
+
+<!--UNORDERED LISTS-->
+* Item 1 - this is list item 1
+  * This is our list item 1 child item 1
+  * This is our list item 1 child item 2
+  * This is our list item 1 child item 3
+* Item 2 - this is list item 2
+  * This is our list item 2 child item 1
+  * This is our list item 2 child item 2
+* Item 3 - this is list item 3
+  * This is our list item 3 child item 1
+* Item 4 - this is list item 4
+  * This is our list item 4 child item 1
+  * This is our list item 4 child item 2
+* Item 5 - this is list item 5
+  * This is our list item 5 child item 1
+  * This is our list item 5 child item 2
+  * This is our list item 5 child item 3
+ 
+<!--ORDERED LIST--> 
+1. Item 1 - this is list item 1
+  * This is our list item 1 child item 1
+  * This is our list item 1 child item 2
+  * This is our list item 1 child item 3
+2. Item 2 - this is list item 2
+  * This is our list item 2 child item 1
+  * This is our list item 2 child item 2
+3. Item 3 - this is list item 3
+  * This is our list item 3 child item 1
+4. Item 4 - this is list item 4
+  * This is our list item 4 child item 1
+  * This is our list item 4 child item 2
+5. Item 5 - this is list item 5
+  * This is our list item 5 child item 1
+  * This is our list item 5 child item 2
+  * This is our list item 5 child item 3
+  
+ 
