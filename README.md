@@ -37,3 +37,7 @@ We can add triple hyphens (-) to be able to create a horizontal line for separat
 Another way to add __HORIZONTAL LINE__ is to add three (3) underscores (_).
 ___
 
+<!--ESCAPE CHARACTER RULE USING BACKSLASH \ -->
+This is an example of a *text with an asterisk*, When we don't want it to be italicized. We want to use the backslash to escape the rule of using an opening \*asterisk* and closing \*asterisk* to enclose the text content.
+
+---
