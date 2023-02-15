@@ -41,3 +41,9 @@ ___
 This is an example of a *text with an asterisk*, When we don't want it to be italicized. We want to use the backslash to escape the rule of using an opening \*asterisk* and closing \*asterisk* to enclose the text content.
 
 ---
+
+<!-- BLOCKQUOTE RULE-->
+> We use the greater than symbol to display a block of text as a quote with a background and line on the left side.
+
+> *"With great power comes with great responsibility!"* - __Uncle Ben__
+
