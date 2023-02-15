@@ -45,5 +45,11 @@ This is an example of a *text with an asterisk*, When we don't want it to be ita
 <!-- BLOCKQUOTE RULE-->
 > We use the greater than symbol to display a block of text as a quote with a background and line on the left side.
 
-> *"With great power comes with great responsibility!"* - __Uncle Ben__
+> *"With great power comes with great responsibility!"* -__Uncle Ben__
 
+<!-- LINK RULE-->
+**NOTE FOR LINK RULE**: Description inside double BRACKETS and Link inside two parenthesis.
+[Trello Activity Link](https://www.youtube.com/playlist?list=PLHztOObXYCYGL2DNt5yVzeTyyyohG50tv)
+
+__NOTE__: We can add a balloon title description to our link by using double quotes after the link to the resource.
+[Trello Activity Link](https://www.youtube.com/playlist?list=PLHztOObXYCYGL2DNt5yVzeTyyyohG50tv "This is a youtube playlist link")
