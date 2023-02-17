@@ -143,6 +143,9 @@ def pythonAdd(num1,num2);
 |xtian | Ben      | benedictramirez78@gmail.com |
 |corn salad|77700772|nayeonglobal@gmail.com|
 
+| Name | Nickname | Eme |
+|------|----------|-----|
+|eme|eme|eme@eme.com|
 ___
 
 <!--TASK LIST-->
