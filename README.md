@@ -125,6 +125,7 @@ function jsAdd(num1,num2){
 def pythonAdd(num1,num2);
  return num1 + num2;
 ```
+
 ```C#
  public static int Sum(int num1, int num2)
  {
@@ -133,6 +134,8 @@ def pythonAdd(num1,num2);
   return total;
  }
 ```
+
+---
 
 <!--TABLES-->
 | Name | Nickname | Email|
